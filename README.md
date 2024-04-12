@@ -21,3 +21,8 @@ We use these fee’s as following:
 – 2% to reflection wallet
 (used to reward SOL, $JUP, $WEN and many other trending tokens, to all holders)
 – 2% to buyback wallet
+
+For more detailed info check the White Paper here:
+
+https://the-mentaverse.gitbook.io/mentaverse-coin
+
